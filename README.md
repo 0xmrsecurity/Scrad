@@ -7,7 +7,7 @@ My Testing Website `0xmrsecurity.github.io`
 
 # Setup for Firefox
 ### 1. Open Firefox and Hit [ Control + B ] Open a Bookmark.
-### 2. Select AnyBook For Exmaple (i am selecting Kali Docs.)
+### 2. Select Any Bookmark For Exmaple (i am selecting Kali Docs.)
 
 <img width="1199" height="512" alt="image" src="https://github.com/0xmrsecurity/Scrad/blob/main/Img/step2.png" />
 
